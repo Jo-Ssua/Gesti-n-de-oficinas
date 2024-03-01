@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8083936-0de6-4b92-bb18-686198d6eb65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DepartmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProfessorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cltkuLp9oYem13JnZ05Q0DnFaI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.DepartmentTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/johan/OneDrive/Documentos/Inegradora_I/tarea-integradora-1-2024-1-bombastic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/johan/OneDrive/Documentos/Universidad/Segundo semestre/APO II/APO-2/GestionDeOficinas/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8083936-0de6-4b92-bb18-686198d6eb65" name="Changes" comment="" />
+      <created>1708698140784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708698140784</updated>
+      <workItem from="1708698141890" duration="696000" />
+      <workItem from="1708698852311" duration="4735000" />
+      <workItem from="1708706424959" duration="23000" />
+      <workItem from="1708881770766" duration="859000" />
+      <workItem from="1708907153141" duration="5044000" />
+      <workItem from="1708955283297" duration="2410000" />
+      <workItem from="1708970038986" duration="230000" />
+      <workItem from="1708979026156" duration="1218000" />
+      <workItem from="1708999058899" duration="5000" />
+      <workItem from="1708999611590" duration="111000" />
+      <workItem from="1708999960258" duration="3053000" />
+      <workItem from="1709213491486" duration="603000" />
+      <workItem from="1709217036037" duration="77000" />
+      <workItem from="1709259571842" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ui/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
